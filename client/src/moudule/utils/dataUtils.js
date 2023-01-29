@@ -1,6 +1,6 @@
 const net = require('net');
 
-import {logger} from "../utils/logger";
+import {logger} from "./logger";
 
 const tag = "dataUtils.js";
 
